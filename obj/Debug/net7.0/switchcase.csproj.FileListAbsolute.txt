@@ -1,0 +1,15 @@
+C:\Pratikler\switchcase\obj\Debug\net7.0\switchcase.csproj.AssemblyReference.cache
+C:\Pratikler\switchcase\obj\Debug\net7.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\switchcase\obj\Debug\net7.0\switchcase.AssemblyInfoInputs.cache
+C:\Pratikler\switchcase\obj\Debug\net7.0\switchcase.AssemblyInfo.cs
+C:\Pratikler\switchcase\obj\Debug\net7.0\switchcase.csproj.CoreCompileInputs.cache
+C:\Pratikler\switchcase\bin\Debug\net7.0\switchcase.exe
+C:\Pratikler\switchcase\bin\Debug\net7.0\switchcase.deps.json
+C:\Pratikler\switchcase\bin\Debug\net7.0\switchcase.runtimeconfig.json
+C:\Pratikler\switchcase\bin\Debug\net7.0\switchcase.dll
+C:\Pratikler\switchcase\bin\Debug\net7.0\switchcase.pdb
+C:\Pratikler\switchcase\obj\Debug\net7.0\switchcase.dll
+C:\Pratikler\switchcase\obj\Debug\net7.0\refint\switchcase.dll
+C:\Pratikler\switchcase\obj\Debug\net7.0\switchcase.pdb
+C:\Pratikler\switchcase\obj\Debug\net7.0\switchcase.genruntimeconfig.cache
+C:\Pratikler\switchcase\obj\Debug\net7.0\ref\switchcase.dll
